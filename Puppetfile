@@ -8,4 +8,5 @@ mod 'hosts',
   :git => 'https://github.com/puppetlabs-education/classroom-hosts'
 
 mod 'users',
-  :git => 'https://github.com/puppetlabs-education/classroom-users'
+  :git => 'https://github.com/puppetlabs-education/classroom-users',
+  :ref => 'admins'
